@@ -9,9 +9,8 @@ tic-tac-toe game Coding
 <h2>
     1. 실행화면
 </h2>
-<p align="center">
-  <img width="80%" src="[https://github.com/limsbong/js-tic_tac_toe/assets/126482821/1fa7d358-59d2-4c04-9f42-fad7a85c1b31](https://github.com/limsbong/Js-tic_tac_toe/assets/126482821/4954f929-5354-40f8-bdf3-5e6fb2ae1922)https://github.com/limsbong/Js-tic_tac_toe/assets/126482821/4954f929-5354-40f8-bdf3-5e6fb2ae1922">
-</p>
+
+<img src="https://github.com/limsbong/Js-tic_tac_toe/assets/126482821/ced3b8a8-d884-4a20-9b2c-0c99575a7dc1">
 
 <h2>
     2. 개발기간 및 인원
